@@ -45,6 +45,7 @@ telco-churn-prediction/
 
 ### Churn Distribution
 This plot shows the imbalance between churned and non-churned customers.
+![Churn Distribution](outputs/figures/churn_distribution.png)
 
 ---
 
@@ -61,12 +62,14 @@ Two machine learning models were trained and evaluated:
 
 ### ROC Curve Comparison
 The ROC curves compare model performance in distinguishing churned vs non-churned customers.
+![ROC Curve](outputs/figures/roc_curve.png)
 
 ---
 
 ## ⭐ Feature Importance (Random Forest)
 
 The plot below highlights the most important features influencing churn prediction.
+![Feature Importance](outputs/figures/feature_importance.png)
 
 ---
 
@@ -101,4 +104,5 @@ The plot below highlights the most important features influencing churn predicti
 **Ilias Tomaras**  
 MSc in Information Systems and Services  
 Data Scientist
+
 
