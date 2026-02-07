@@ -37,3 +37,68 @@ telco-churn-prediction/
 │       └── feature_importance.png
 │
 └── README.md
+```
+
+---
+
+## 🔍 Exploratory Data Analysis
+
+### Churn Distribution
+This plot shows the imbalance between churned and non-churned customers.
+
+---
+
+## 🤖 Modeling
+
+Two machine learning models were trained and evaluated:
+
+- **Logistic Regression** (baseline, interpretable)
+- **Random Forest** (non-linear, feature importance)
+
+---
+
+## 📈 Model Evaluation
+
+### ROC Curve Comparison
+The ROC curves compare model performance in distinguishing churned vs non-churned customers.
+
+---
+
+## ⭐ Feature Importance (Random Forest)
+
+The plot below highlights the most important features influencing churn prediction.
+
+---
+
+## 🧠 Key Insights
+
+- Contract type and tenure are strong churn predictors
+- Customers on month-to-month contracts show higher churn probability
+- Ensemble models outperform linear baselines
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 🚀 Next Steps
+
+- Hyperparameter tuning
+- Class imbalance handling (SMOTE)
+- Deployment-ready pipeline
+
+---
+
+## 👤 Author
+
+**Ilias Tomaras**  
+MSc in Information Systems and Services  
+Data Scientist
+
