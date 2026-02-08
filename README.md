@@ -5,7 +5,7 @@ The goal is to identify customers at high risk of leaving and understand the key
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 - Business problem: Predict customer churn in a telecom company
 - Dataset: IBM Telco Customer Churn (Kaggle)
@@ -16,7 +16,7 @@ The goal is to identify customers at high risk of leaving and understand the key
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 telco-churn-prediction/
@@ -41,7 +41,7 @@ telco-churn-prediction/
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 ### Churn Distribution
 
@@ -51,7 +51,7 @@ This plot shows the imbalance between churned and non-churned customers.
 
 ---
 
-## 🤖 Modeling
+## Modeling
 
 Two machine learning models were trained and evaluated:
 
@@ -60,7 +60,7 @@ Two machine learning models were trained and evaluated:
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 ### ROC Curve Comparison
 
@@ -78,7 +78,7 @@ The plot below highlights the most important features influencing churn predicti
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - Contract type and tenure are strong churn predictors
 - Customers on month-to-month contracts show higher churn probability
@@ -86,7 +86,7 @@ The plot below highlights the most important features influencing churn predicti
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas, NumPy
@@ -96,7 +96,7 @@ The plot below highlights the most important features influencing churn predicti
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Hyperparameter tuning
 - Class imbalance handling (SMOTE)
@@ -104,11 +104,9 @@ The plot below highlights the most important features influencing churn predicti
 
 ---
 
-## 👤 Author
+## Author
 
 **Ilias Tomaras**  
 MSc in Information Systems and Services  
 Data Scientist
-
-
 
