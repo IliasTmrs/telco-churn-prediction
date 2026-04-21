@@ -80,9 +80,9 @@ The plot below highlights the most important features influencing churn predicti
 
 ## Key Insights
 
-- Contract type and tenure are strong churn predictors
+- Contract type and tenure are among the most influential features in predicting churn
 - Customers on month-to-month contracts show higher churn probability
-- Ensemble models outperform linear baselines
+- Logistic Regression outperforms the Random Forest model in this case
 
 ---
 
